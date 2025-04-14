@@ -12,7 +12,17 @@ However, this versatile model can be trained on virtually any set of images with
 - Facial expressions
 - Highway traffic signs
 
+The training is done via the web app by drawing lines around the pattern to be detected.
+
 ---
+
+## Example
+1. **Input image**
+![Screenshot (411)](https://github.com/user-attachments/assets/610cfcbf-5c57-4563-8217-ba663ca9a1af)
+
+2. **Output coordinates over the input image and the UI**
+![Screenshot 2024-12-05 044835](https://github.com/user-attachments/assets/a6b9e887-9684-462f-8e52-ed38c4e9baba)
+Note the shallow water area.
 
 ## Repository Contents
 1. **Frontend Web App**  
